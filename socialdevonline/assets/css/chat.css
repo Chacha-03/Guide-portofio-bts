@@ -1,0 +1,32 @@
+#chat3 .form-control {
+    border-color: transparent;
+    background-color: #e5e5e5;
+    }
+    
+    #chat3 .form-control:focus {
+    border-color: transparent;
+    box-shadow: inset 0px 0px 0px 1px transparent;
+    }
+    
+    .badge-dot {
+    border-radius: 50%;
+    height: 10px;
+    width: 10px;
+    margin-left: 2.9rem;
+    margin-top: -.75rem;
+    }
+
+    .p-3 , .pt-3{
+        overflow-y: scroll;
+        /* background-color: rgb(13, 13, 135); */
+    }
+
+    .p-3::-webkit-scrollbar , .pt-3::-webkit-scrollbar{
+           display: none;
+    }
+        
+    .h1_name{
+        text-align: center;
+        /* margin-top: 20px; */
+        color: #F8F9FA;
+    }
